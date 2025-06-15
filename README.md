@@ -2,6 +2,9 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=60&pause=1000&center=true&vCenter=true&width=900&height=300&lines=Full+stack+developer;Designer;3D+Artist;Game+Developer;Digital+entrepreneur)](https://git.io/typing-svg)
 
+![Una GIF divertente](assets/terminal.gif)
+
+
 ### Badges
 ![image](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![image](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)
