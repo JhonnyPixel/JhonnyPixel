@@ -1,5 +1,7 @@
 ﻿# JhonnyPixel
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&pause=1000&center=true&width=435&lines=Full+stack+developer;Designer;3D+Artist;Game+Developer;Digital+entrepreneur)](https://git.io/typing-svg)
+
 ### Badges
 ![image](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![image](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)
